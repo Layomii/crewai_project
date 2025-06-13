@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac or Windows system files
+.DS_Store
+Thumbs.db
